@@ -1,10 +1,10 @@
 Name: Items
 Type: FolderType
 Children:
-- Name: ColorPicker1
+- Name: ColorPicker3
   Type: ObjectLibraryItem
   Children:
-  - Name: ColorPicker1
+  - Name: ColorPicker3
     Id: g=c8d7fa41e4576d73ca9638dcd340a944
     Supertype: Panel
     ReferenceType: HasComponent
