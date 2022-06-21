@@ -4,6 +4,12 @@ Children:
 - Name: ColorPicker3
   Type: ObjectLibraryItem
   Children:
+  - Class: Reference
+    Type: HasComponent
+    Target: g=c8d7fa41e4576d73ca9638dcd340a944
+- Name: ColorPicker2
+  Type: ObjectLibraryItem
+  Children:
   - Name: ColorPicker3
     Id: g=c8d7fa41e4576d73ca9638dcd340a944
     Supertype: Panel
